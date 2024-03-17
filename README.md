@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="https://img.icons8.com/color/344/python--v1.png"></code>
@@ -16,4 +16,6 @@
   <code><img title="Visual Studio Code" height="25" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"></code>
   <code><img title="MySQL" height="25" src="https://img.icons8.com/color/344/mysql-logo.png"></code>
   <code><img title="AWS" height="25" src="https://img.icons8.com/color/344/amazon-web-services.png"></code>
+  <code><img title="Devops" height="25" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-dev-coding-and-development-soft-fill-soft-fill-juicy-fish.png"></code>
+  
 </p>
